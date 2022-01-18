@@ -2,7 +2,7 @@
 
 Nirvana enables a customer to instantly transact with a merchant using a cryptocurrency of their choice.
 
-Prerequisites: Please follow all steps in http://pages.cs.wisc.edu/~ace/install-charm.html, add install zmq. 
+Prerequisites: Please follow all steps in http://pages.cs.wisc.edu/~ace/install-charm.html, and install zmq. 
 
 The structure of this repository is as follows:
 
